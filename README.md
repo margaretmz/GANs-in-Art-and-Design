@@ -8,3 +8,6 @@ This repo contains Colab notebooks for the GAN series on [PyImageSearch Universi
 |3. GAN Training Challenges              |Link      |Link   |
 
 
+### Copyright
+Please note that any content, artwork or code in this repo is licensed under a [
+Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), which means you are free to share and adapt it, under the condition that you give appropriate credit to the author and you may not use it for commercial purposes.
