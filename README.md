@@ -5,7 +5,7 @@ This repo contains Colab notebooks for the GAN series on [PyImageSearch Universi
 |----------------------------------------|--------- |----- |
 |1. Intro GANs                           |[Link](https://www.pyimagesearch.com/2021/09/13/intro-to-generative-adversarial-networks-gans/)  | N/A  |
 |2. Get Started: DCGAN for Fashion-MNIST |[Link](https://www.pyimagesearch.com/2021/11/11/get-started-dcgan-for-fashion-mnist/)  |[Link](https://github.com/margaretmz/GANs-in-Art-and-Design/blob/main/2_dcgan_fashion_mnist.ipynb)|
-|3. GAN Training Challenges              |Link      |Link   |
+|3. GAN Training Challenges: DCGAN for Color Images |[Link](https://www.pyimagesearch.com/2021/12/13/gan-training-challenges-dcgan-for-color-images/)      |[Link](https://github.com/margaretmz/GANs-in-Art-and-Design/blob/main/3_dcgan_color_images.ipynb)   |
 
 
 ### Copyright
