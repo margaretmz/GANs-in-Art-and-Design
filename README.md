@@ -1,5 +1,5 @@
 # GANs in Art and Design
-This repo contains Colab notebooks for the GAN series on [PyImageSearch University](https://www.pyimagesearch.com/pyimagesearch-university/). Please go to [PyImageSearch](https://www.pyimagesearch.com/) to access the tutorials and videos.
+This repo contains the Colab notebooks for the GAN series on [PyImageSearch](https://www.pyimagesearch.com/) which is many people's go to place for learning about computer vision, deep learning and OpenCV. These posts are also part of the [PyImageSearch University](https://www.pyimagesearch.com/pyimagesearch-university/) courses where you can access both the tutorials and videos. The GAN implementations are written in **TensorFLow 2** and **Keras**.
 
 <h2 align="center">Table of Contents</h2>
 
