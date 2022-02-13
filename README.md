@@ -1,7 +1,5 @@
 # GANs in Art and Design
-This repo contains the Colab notebooks for the GAN series on [PyImageSearch](https://www.pyimagesearch.com/) which is many people's go to place for learning about computer vision, deep learning and OpenCV. These posts are also part of the [PyImageSearch University](https://www.pyimagesearch.com/pyimagesearch-university/) courses where you can access both the tutorials and videos. The GAN implementations are written in **TensorFLow 2** and **Keras**.
-
-<h2 align="center">Table of Contents</h2>
+This repo contains the Colab notebooks for the GAN series on [PyImageSearch](https://www.pyimagesearch.com/) which is many people's go-to place for learning about computer vision, deep learning and OpenCV. These posts are also part of the [PyImageSearch University](https://www.pyimagesearch.com/pyimagesearch-university/) courses where you can access both the tutorials and videos. The GAN implementations are written in **TensorFLow 2** and **Keras**.
 
 |Blog Post Title                   | Tweet |Tutorial  |Open in Colab |
 |-----------------------------------|-----|--------- |----- |
@@ -26,7 +24,7 @@ Read [Get Started: DCGAN for Fashion-MNIST](https://www.pyimagesearch.com/2021/1
 
 ## 3. DCGAN Zalando Fashion
 
-Read this [GAN Training Challenges: DCGAN for Color Images ](https://www.pyimagesearch.com/2021/12/13/gan-training-challenges-dcgan-for-color-images/) to learn how to use GCGAN to generate color (`64x64x3`) fashion images. 
+Read this [GAN Training Challenges: DCGAN for Color Images ](https://www.pyimagesearch.com/2021/12/13/gan-training-challenges-dcgan-for-color-images/) to learn how to use DCGAN to generate color (`64x64x3`) fashion images. 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margaretmz/GANs-in-Art-and-Design/blob/main/2_dcgan_fashion_mnist.ipynb)
 
 <p align="center">
@@ -34,7 +32,7 @@ Read this [GAN Training Challenges: DCGAN for Color Images ](https://www.pyimage
 </p>
 
 ## 4. WGAN and WGAN-GP Anime Faces
-In [Anime Faces with WGAN and WGAN-GP](https://www.pyimagesearch.com/2022/02/07/anime-faces-with-wgan-and-wgan-gp/), I discuss how to move from DCGAN to WGAN and WGAN-GP, for generating anime faces. 
+In [Anime Faces with WGAN and WGAN-GP](https://www.pyimagesearch.com/2022/02/07/anime-faces-with-wgan-and-wgan-gp/), I discuss how to move from DCGAN to WGAN, and then to WGAN-GP, for generating anime faces. 
 * WGAN notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margaretmz/GANs-in-Art-and-Design/blob/main/4_wgan_anime_faces.ipynb)
 * WGAN-GP notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/margaretmz/GANs-in-Art-and-Design/blob/main/4_wgan_gp_anime_faces.ipynb)
 
